@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="62 63 695 564" width="633px" height="501px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="103" height="20" x="120" y="449" style="fill:#007;stroke:black;"/>
+   <text width="103" height="20" x="125" y="463" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_customer</text>
+   <rect width="103" height="20" x="120" y="469" style="fill:#aea;stroke:black;"/>
+   <text width="103" height="20" x="125" y="483" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="103" height="20" x="120" y="489" style="fill:none;stroke:black;"/>
+   <text width="103" height="20" x="125" y="503" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="103" height="20" x="120" y="509" style="fill:none;stroke:black;"/>
+   <text width="103" height="20" x="125" y="523" style="fill:black;" font-family="Arial" font-size="16px">addresLine</text>
+   <rect width="103" height="20" x="120" y="529" style="fill:none;stroke:black;"/>
+   <text width="103" height="20" x="125" y="543" style="fill:black;" font-family="Arial" font-size="16px">country</text>
+   <rect width="109" height="20" x="571" y="80" style="fill:#007;stroke:black;"/>
+   <text width="109" height="20" x="576" y="94" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_employes</text>
+   <rect width="109" height="20" x="571" y="100" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="576" y="114" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="109" height="20" x="571" y="120" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="576" y="134" style="fill:black;" font-family="Arial" font-size="16px">territory</text>
+   <rect width="109" height="20" x="571" y="140" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="576" y="154" style="fill:black;" font-family="Arial" font-size="16px">jobTitle</text>
+   <rect width="109" height="20" x="571" y="160" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="576" y="174" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="125" height="20" x="77" y="78" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="82" y="92" style="fill:#fff;" font-family="Arial" font-size="16px"> dim_product</text>
+   <rect width="125" height="20" x="77" y="98" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="82" y="112" style="fill:black;" font-family="Arial" font-size="16px">productName</text>
+   <rect width="125" height="20" x="77" y="118" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="82" y="132" style="fill:black;" font-family="Arial" font-size="16px">quantityOrdered</text>
+   <rect width="125" height="20" x="77" y="138" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="82" y="152" style="fill:black;" font-family="Arial" font-size="16px">priceEach</text>
+   <rect width="125" height="20" x="77" y="158" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="82" y="172" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="125" height="20" x="225" y="179" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="230" y="193" style="fill:#fff;" font-family="Arial" font-size="16px"> lookup table</text>
+   <rect width="125" height="20" x="225" y="199" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="230" y="213" style="fill:black;" font-family="Arial" font-size="16px">productName</text>
+   <rect width="125" height="20" x="225" y="219" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="230" y="233" style="fill:black;" font-family="Arial" font-size="16px">quantityOrdered</text>
+   <rect width="125" height="20" x="225" y="239" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="230" y="253" style="fill:black;" font-family="Arial" font-size="16px">priceEach</text>
+   <rect width="125" height="20" x="225" y="259" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="230" y="273" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+</svg>
